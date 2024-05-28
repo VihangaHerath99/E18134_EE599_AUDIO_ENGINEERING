@@ -9,7 +9,7 @@
 
 ### Activity 1: Select five commercially used microphones and compare their frequency responses.
 
-#### <span style="background-color: yellow">**1. Shure SM58**</span> 
+#### **1. Shure SM58**
 
 ![Activity01_001](<images/Activity01_001.png>)  
 
@@ -22,7 +22,7 @@
 - Roll-off at low frequencies to reduce handling noise and proximity effect.
 - Well-suited for live vocals and speeches due to its robust build and clear midrange.
 
-#### <span style="color:yellow">**2. Neumann U87**</span>
+#### **2. Neumann U87**
 
 ![Activity01_002](<images/Activity01_002.png>)  
 
@@ -36,7 +36,7 @@
 - Known for its versatility, suitable for vocals, instruments, and broadcast.
 
 
-#### <span style="color:yellow">**3. Audio-Technica AT2020**</span>
+#### **3. Audio-Technica AT2020**
 
 ![Activity01_003](<images/Activity01_003.png>)
 
@@ -49,7 +49,7 @@
 - Low-mass diaphragm for extended frequency response and transient response.
 - Popular for home studios, offering good clarity and detail for vocals and instruments.
 
-#### <span style="color:yellow">**4. Rode NT1-A**</span>
+#### **4. Rode NT1-A**
 
 ![Activity01_004](<images/Activity01_004.png>)
 
@@ -62,7 +62,7 @@
 - Very low self-noise, making it ideal for quiet recording environments.
 - Widely used for vocals, acoustic instruments, and voice-overs due to its detailed sound.
 
-#### <span style="color:yellow">**5. AKG C414**</span>
+#### **5. AKG C414**
 
 ![Activity01_005](<images/Activity01_005.png>)
 
