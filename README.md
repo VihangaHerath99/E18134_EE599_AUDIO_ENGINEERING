@@ -7,7 +7,7 @@
 
 ## Activities
 
-### Activity 1: Select five commercially used microphones and compare their frequency responses.
+> ### Activity 1: Select five commercially used microphones and compare their frequency responses.
 
 #### **1. Shure SM58**
 
