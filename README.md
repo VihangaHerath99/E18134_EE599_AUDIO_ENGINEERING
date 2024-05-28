@@ -9,7 +9,7 @@
 
 ### Activity 1: Select five commercially used microphones and compare their frequency responses.
 
-#### <span style="color:yellow">**1. Shure SM58**</span> 
+#### <span style="background-color: yellow">**1. Shure SM58**</span> 
 
 ![Activity01_001](<images/Activity01_001.png>)  
 
