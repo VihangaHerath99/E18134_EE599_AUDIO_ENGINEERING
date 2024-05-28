@@ -81,3 +81,6 @@
 - https://soundref.com/audio-technica-at2020-review/ 
 - http://recordinghacks.com/microphones/Rode/NT1-A 
 - http://recordinghacks.com/microphones/AKG-Acoustics/C-414-XL-II 
+
+
+> ### Activity 2: Select five commercially used speakers and compare their frequency responses.
