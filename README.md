@@ -74,7 +74,17 @@
 **Characteristics:**
 - Multiple frequency response settings with several switchable polar patterns.
 - Slight presence boost around 4-10 kHz and a selectable high-pass filter.
-- Highly versatile, used in studios for a wide range of applications including vocals, instruments, and room recording.
+- Highly versatile, used in studios for a wide range of applications including vocals, instruments, and room recording.  
+
+#### Comparison Table
+
+| Microphone              | Type       | Frequency Response  | Key Features                                         |
+|-------------------------|------------|---------------------|------------------------------------------------------|
+| Shure SM58              | Dynamic    | 50 Hz to 15 kHz     | Midrange boost, durable, live vocals and speeches    |
+| Neumann U87             | Condenser  | 20 Hz to 20 kHz     | Flat response, slight boost at 8 kHz, versatile      |
+| Audio-Technica AT2020   | Condenser  | 20 Hz to 20 kHz     | Flat response, high-end lift, home studios           |
+| Rode NT1-A              | Condenser  | 20 Hz to 20 kHz     | Flat response, boost at 10 kHz, very low self-noise  |
+| AKG C414                | Condenser  | 20 Hz to 20 kHz     | Multiple settings, presence boost, studio versatile  |
 
 *Used References for activity 01:*
 - https://www.coutant.org/sm58/index.html 
@@ -97,16 +107,58 @@
 
 **Description:** The JBL GT5-12 is a 12-inch car subwoofer known for its deep bass response. It is designed to handle high power and produce powerful, low-frequency sounds.
 
-#### **2. Woofer: Pioneer TS-W3003D4**
-![Activity02_002](<images/Activity02_002.png>)
+#### **2. Rockford Fosgate P3D4-12**
+<!-- ![Activity02_002](<images/Activity02_002.png>) -->
 
 **Type:** Woofer  
 
-**Frequency Response:** 20 Hz – 80 Hz
+**Frequency Response:** 28 Hz – 250 Hz
 
-**Description:** The Pioneer TS-W3003D4 is another 12-inch subwoofer, featuring dual voice coils and a higher power handling capability, providing robust and clear low-frequency reproduction
+**Description:** The Rockford Fosgate P3D4-12 is a 12-inch subwoofer known for its powerful performance and deep bass. It features an anodized aluminum cone and dustcap, which improves its durability and sound quality. This woofer is designed to deliver punchy, deep bass and handle high power levels efficiently.  
 
-*Used References for activity 01:*
+#### **3. Focal TBe**
+
+**Type:** Tweeter  
+
+**Frequency Response:** 1.5 kHz – 50 kHz
+
+**Description:** The Focal TBe is a high-end tweeter with a Beryllium dome, known for its exceptional clarity and ability to reproduce very high frequencies with minimal distortion.  
+
+#### **4. Tweeter: Vifa XT25TG30-04**  
+
+![Activity02_004](<images/Activity02_004.png>)
+
+**Type:** Tweeter  
+
+**Frequency Response:** 1 kHz – 40 kHz  
+
+**Description:** The Vifa XT25TG30-04 is a popular ring radiator tweeter, prized for its smooth and extended high-frequency response and wide dispersion.  
+
+#### **5. KEF LS50 Meta**  
+
+![Activity02_005](<images/Activity02_005.png>)
+
+**Type:** Full-range  
+
+**Frequency Response:** 78 Hz – 20 kHz  
+
+**Description:** The KEF LS50 Meta is a bookshelf speaker with a Uni-Q driver array, combining a midrange and tweeter in a single unit. It delivers a balanced and detailed sound across a wide range of frequencies.  
+
+#### Comparison Table
+
+| Speaker Model             | Type         | Frequency Response | Notes                                         |
+|---------------------------|--------------|--------------------|-----------------------------------------------|
+| JBL GT5-12                | Woofer       | 27 Hz – 450 Hz     | Deep bass, suitable for car audio systems.    |
+| Rockford Fosgate P3D4-12  | Woofer       | 28 Hz – 250 Hz     | Punchy deep bass, durable construction.       |
+| Focal TBe                 | Tweeter      | 1.5 kHz – 50 kHz   | High-end clarity, minimal distortion.         |
+| Vifa XT25TG30-04          | Tweeter      | 1 kHz – 40 kHz     | Smooth high-frequency response, wide dispersion. |
+| KEF LS50 Meta             | Full-range   | 78 Hz – 20 kHz     | Balanced sound, combines midrange and tweeter. |
+  
+
+*Used References for activity 02:*
 - https://www.yumpu.com/en/document/read/23642032/gt5-12-12-woofer-technical-data-jblcom 
-- https://pioneer-mea.com/wp-content/uploads/2016/11/Car-subwoofer-TS-W3003D4.pdf 
+- https://www.crutchfield.com/p_5751P3D412/Rockford-Fosgate-P3D4-12.html?tp=68897 
+- https://www.focal.com/products/tbm 
+- https://www.falconacoustics.co.uk/downloads/Vifa/XT25TG30-04.pdf 
+- https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/ 
 
