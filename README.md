@@ -21,7 +21,9 @@
 **Characteristics:**
 - Tailored frequency response with a presence boost in the midrange, particularly around 2-5 kHz.
 - Roll-off at low frequencies to reduce handling noise and proximity effect.
-- Well-suited for live vocals and speeches due to its robust build and clear midrange.
+- Well-suited for live vocals and speeches due to its robust build and clear midrange.  
+
+----------------------------------
 
 #### **2. Neumann U87**
 
@@ -34,8 +36,9 @@
 **Characteristics:**
 - Flat frequency response with a slight boost around 8 kHz for added presence.
 - Switchable high-pass filter at 80 Hz to reduce low-frequency noise.
-- Known for its versatility, suitable for vocals, instruments, and broadcast.
+- Known for its versatility, suitable for vocals, instruments, and broadcast.  
 
+--------------------------------------------------
 
 #### **3. Audio-Technica AT2020**
 
@@ -48,7 +51,9 @@
 **Characteristics:**
 - Relatively flat frequency response with a slight high-end lift above 10 kHz.
 - Low-mass diaphragm for extended frequency response and transient response.
-- Popular for home studios, offering good clarity and detail for vocals and instruments.
+- Popular for home studios, offering good clarity and detail for vocals and instruments.  
+
+--------------------------------------------------
 
 #### **4. Rode NT1-A**
 
@@ -61,7 +66,9 @@
 **Characteristics:**
 - Flat frequency response with a gentle boost around 10 kHz for clarity and presence.
 - Very low self-noise, making it ideal for quiet recording environments.
-- Widely used for vocals, acoustic instruments, and voice-overs due to its detailed sound.
+- Widely used for vocals, acoustic instruments, and voice-overs due to its detailed sound.  
+
+-------------------------------------------------
 
 #### **5. AKG C414**
 
@@ -75,6 +82,8 @@
 - Multiple frequency response settings with several switchable polar patterns.
 - Slight presence boost around 4-10 kHz and a selectable high-pass filter.
 - Highly versatile, used in studios for a wide range of applications including vocals, instruments, and room recording.  
+
+-----------------------------------------------------
 
 #### Comparison Table
 
@@ -105,7 +114,9 @@
 
 **Frequency Response:** 27 Hz – 450 Hz  
 
-**Description:** The JBL GT5-12 is a 12-inch car subwoofer known for its deep bass response. It is designed to handle high power and produce powerful, low-frequency sounds.
+**Description:** The JBL GT5-12 is a 12-inch car subwoofer known for its deep bass response. It is designed to handle high power and produce powerful, low-frequency sounds.  
+
+-----------------------------------------------------------
 
 #### **2. Rockford Fosgate P3D4-12**
 <!-- ![Activity02_002](<images/Activity02_002.png>) -->
@@ -116,6 +127,8 @@
 
 **Description:** The Rockford Fosgate P3D4-12 is a 12-inch subwoofer known for its powerful performance and deep bass. It features an anodized aluminum cone and dustcap, which improves its durability and sound quality. This woofer is designed to deliver punchy, deep bass and handle high power levels efficiently.  
 
+---------------------------------------------------------------
+
 #### **3. Focal TBe**
 
 **Type:** Tweeter  
@@ -123,6 +136,8 @@
 **Frequency Response:** 1.5 kHz – 50 kHz
 
 **Description:** The Focal TBe is a high-end tweeter with a Beryllium dome, known for its exceptional clarity and ability to reproduce very high frequencies with minimal distortion.  
+
+------------------------------------------------------------------
 
 #### **4. Tweeter: Vifa XT25TG30-04**  
 
@@ -134,6 +149,8 @@
 
 **Description:** The Vifa XT25TG30-04 is a popular ring radiator tweeter, prized for its smooth and extended high-frequency response and wide dispersion.  
 
+------------------------------------------------------------------
+
 #### **5. KEF LS50 Meta**  
 
 ![Activity02_005](<images/Activity02_005.png>)
@@ -143,6 +160,8 @@
 **Frequency Response:** 78 Hz – 20 kHz  
 
 **Description:** The KEF LS50 Meta is a bookshelf speaker with a Uni-Q driver array, combining a midrange and tweeter in a single unit. It delivers a balanced and detailed sound across a wide range of frequencies.  
+
+-----------------------------------------------------------------
 
 #### Comparison Table
 
