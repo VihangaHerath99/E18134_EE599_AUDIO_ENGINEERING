@@ -102,6 +102,7 @@
 - http://recordinghacks.com/microphones/Rode/NT1-A 
 - http://recordinghacks.com/microphones/AKG-Acoustics/C-414-XL-II 
 
+------------------------------------------------------
 
 <!-- Activity 02 -->
 > ### Activity 2: Select five commercially used speakers and compare their frequency responses.
