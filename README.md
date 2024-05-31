@@ -7,6 +7,7 @@
 
 ## Activities
 
+<!-- - Activity 01 -->
 > ### Activity 1: Select five commercially used microphones and compare their frequency responses.
 
 #### **1. Shure SM58**
@@ -83,4 +84,29 @@
 - http://recordinghacks.com/microphones/AKG-Acoustics/C-414-XL-II 
 
 
+<!-- Activity 02 -->
 > ### Activity 2: Select five commercially used speakers and compare their frequency responses.
+
+#### **1. JBL GT5-12**
+
+![Activity02_001](<images/Activity02_001.png>)
+
+**Type:** Woofer  
+
+**Frequency Response:** 27 Hz – 450 Hz  
+
+**Description:** The JBL GT5-12 is a 12-inch car subwoofer known for its deep bass response. It is designed to handle high power and produce powerful, low-frequency sounds.
+
+#### **2. Woofer: Pioneer TS-W3003D4**
+![Activity02_002](<images/Activity02_002.png>)
+
+**Type:** Woofer  
+
+**Frequency Response:** 20 Hz – 80 Hz
+
+**Description:** The Pioneer TS-W3003D4 is another 12-inch subwoofer, featuring dual voice coils and a higher power handling capability, providing robust and clear low-frequency reproduction
+
+*Used References for activity 01:*
+- https://www.yumpu.com/en/document/read/23642032/gt5-12-12-woofer-technical-data-jblcom 
+- https://pioneer-mea.com/wp-content/uploads/2016/11/Car-subwoofer-TS-W3003D4.pdf 
+
