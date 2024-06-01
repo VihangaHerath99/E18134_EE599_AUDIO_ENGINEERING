@@ -85,7 +85,7 @@
 
 -----------------------------------------------------
 
-#### Comparison Table
+#### **Comparison Table**
 
 | Microphone              | Type       | Frequency Response  | Key Features                                         |
 |-------------------------|------------|---------------------|------------------------------------------------------|
@@ -140,7 +140,7 @@
 
 ------------------------------------------------------------------
 
-#### **4. Tweeter: Vifa XT25TG30-04**  
+#### **4. Vifa XT25TG30-04**  
 
 ![Activity02_004](<images/Activity02_004.png>)
 
@@ -164,7 +164,7 @@
 
 -----------------------------------------------------------------
 
-#### Comparison Table
+#### **Comparison Table**
 
 | Speaker Model             | Type         | Frequency Response | Notes                                         |
 |---------------------------|--------------|--------------------|-----------------------------------------------|
@@ -182,3 +182,30 @@
 - https://www.falconacoustics.co.uk/downloads/Vifa/XT25TG30-04.pdf 
 - https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/ 
 
+---------------------------------
+
+<!-- Activity 03 -->
+> ### Activity 3: Learn About Different Sound Formats.  
+
+#### **1. Dolby Atmos**
+- Dolby Atmos is an advanced audio format that creates an immersive sound experience. Unlike traditional surround sound systems, which are channel-based (e.g., 5.1 or 7.1 systems), Dolby Atmos is object-based. This means that sound can be placed and moved anywhere in a three-dimensional space, including above the listener, for a more realistic and enveloping audio experience. It is widely used in cinemas and increasingly in home theater systems and even on mobile devices and headphones.  
+
+#### **2. Surround Sound (5.1, 7.1)**
+
+- *5.1 Surround Sound:* This format uses six channels – five for normal speakers (left, right, center, left surround, right surround) and one for the subwoofer (the ".1" for low-frequency effects).  
+
+- *7.1 Surround Sound:* Expands upon 5.1 by adding two additional speakers (left back and right back) for a more immersive experience.  
+
+#### **3. Auro-3D**
+
+- Auro-3D adds a vertical axis to traditional surround sound systems, creating a more three-dimensional soundscape. It typically involves an additional height layer of speakers above the existing surround sound layout. 
+
+#### **4. Ambisonics**
+
+- A full-sphere surround sound technique that captures sound in all directions (including above and below the listener). It is used in VR (virtual reality) and other immersive environments to create a truly three-dimensional audio experience.
+
+*Used References for activity 02:*
+- https://www.whathifi.com/advice/dolby-atmos-what-it-how-can-you-get-it 
+- https://www.pcmag.com/how-to/what-is-surround-sound-51-71-dolby-atmos-and-more-explained 
+- https://hub.yamaha.com/audio/tv/what-is-auro-3d-an-in-depth-exploration/ 
+- https://rode.com/en/about/news-info/the-beginners-guide-to-ambisonics 
