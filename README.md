@@ -204,7 +204,7 @@
 
 - A full-sphere surround sound technique that captures sound in all directions (including above and below the listener). It is used in VR (virtual reality) and other immersive environments to create a truly three-dimensional audio experience.
 
-*Used References for activity 02:*
+*Used References for activity 03:*
 - https://www.whathifi.com/advice/dolby-atmos-what-it-how-can-you-get-it 
 - https://www.pcmag.com/how-to/what-is-surround-sound-51-71-dolby-atmos-and-more-explained 
 - https://hub.yamaha.com/audio/tv/what-is-auro-3d-an-in-depth-exploration/ 
