@@ -9,7 +9,7 @@
 ## Activities
 
 <!-- - Activity 01 -->
-> ### Activity 1: Select five commercially used microphones and compare their frequency responses
+### Activity 1: Select five commercially used microphones and compare their frequency responses
 
 #### **1. Shure SM58**
 
@@ -106,7 +106,7 @@
 ------------------------------------------------------
 
 <!-- Activity 02 -->
-> ### Activity 2: Select five commercially used speakers and compare their frequency responses
+### Activity 2: Select five commercially used speakers and compare their frequency responses
 
 #### **1. JBL GT5-12**
 
