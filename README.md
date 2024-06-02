@@ -2,13 +2,14 @@
  __E/18/134 - HERATH WMVS__  
 
 ## [Activities](#activities)
-<!-- - ##### [Acitvity One](#micro-phones)
-- ##### [Acitvity Two](#micro-phones) -->
+- ##### [Acitvity 1: Select five commercially used microphones and compare their frequency responses](#activity-1-select-five-commercially-used-microphones-and-compare-their-frequency-responses)
+- ##### [Activity 2: Select five commercially used speakers and compare their frequency responses](#activity-2-select-five-commercially-used-speakers-and-compare-their-frequency-responses)
+- ##### [Activity 3: Learn about different sound formats](#activity-3-learn-about-different-sound-formats)
 
 ## Activities
 
 <!-- - Activity 01 -->
-> ### Activity 1: Select five commercially used microphones and compare their frequency responses.
+> ### Activity 1: Select five commercially used microphones and compare their frequency responses
 
 #### **1. Shure SM58**
 
@@ -105,7 +106,7 @@
 ------------------------------------------------------
 
 <!-- Activity 02 -->
-> ### Activity 2: Select five commercially used speakers and compare their frequency responses.
+> ### Activity 2: Select five commercially used speakers and compare their frequency responses
 
 #### **1. JBL GT5-12**
 
@@ -185,7 +186,7 @@
 ---------------------------------
 
 <!-- Activity 03 -->
-> ### Activity 3: Learn About Different Sound Formats.  
+> ### Activity 3: Learn About Different Sound Formats  
 
 #### **1. Dolby Atmos**
 - Dolby Atmos is an advanced audio format that creates an immersive sound experience. Unlike traditional surround sound systems, which are channel-based (e.g., 5.1 or 7.1 systems), Dolby Atmos is object-based. This means that sound can be placed and moved anywhere in a three-dimensional space, including above the listener, for a more realistic and enveloping audio experience. It is widely used in cinemas and increasingly in home theater systems and even on mobile devices and headphones.  
